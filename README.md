@@ -23,6 +23,12 @@ Using import statements, the crypto_wallet.py script will be integrated into the
 --- 
 
 ## Code
+
+### Requirements 
+
+
+
+
 ### crypto_wallet.py Imports
 
 ```python
@@ -37,7 +43,7 @@ from web3 import middleware
 from web3.gas_strategies.time_based import medium_gas_price_strategy
 
 
-``
+```
 
 ###  fintech_finder.py Imports
 ```python
