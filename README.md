@@ -23,8 +23,23 @@ Using import statements, the crypto_wallet.py script will be integrated into the
 --- 
 
 ## Code
+### crypto_wallet.py Imports
 
-### Imports
+```python
+# Imports
+import os
+import requests
+from dotenv import load_dotenv
+load_dotenv('app.env')
+from bip44 import Wallet
+from web3 import Account
+from web3 import middleware
+from web3.gas_strategies.time_based import medium_gas_price_strategy
+
+
+``
+
+###  fintech_finder.py Imports
 ```python
 # Imports
 
