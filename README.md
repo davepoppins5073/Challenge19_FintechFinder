@@ -41,17 +41,24 @@ w3 = Web3(Web3.HTTPProvider('HTTP://127.0.0.1:7545'))
 from crypto_wallet import generate_account,get_balance,send_transaction
 ```
 ---
-## Running The Code 
-### Inspect the Transaction
+## Running The Code (Inspecting Transaction)
+### Instructions
 
-<b> Complete the following steps:</b>
 1. From your terminal, navigate to the project folder that contains your `.env` file and the `fintech_finder.py` and `crypto_wallet.py` files.
-2. To launch the Streamlit application: type `streamlit run fintech_finder.py`.
+2. To launch the Streamlit application type the following:
+
+ ```python
+ streamlit run fintech_finder.py`.
+ ```
+ 
 3. On the resulting webpage, select a candidate that you would like to hire. Then, enter the number of hours that you would like to hire them for.
-4. Click the Send Transaction button to sign and send the transaction with your Ethereum account information. (Note: The transaction is successfully
-communicated to Ganache, validated, and added to a block, a resulting transaction hash code will be written to the Streamlit application sidebar.
+4. Click the Send Transaction button to sign and send the transaction with your Ethereum account information. 
 5. Navigate to the Ganache accounts tab and locate your account (index 0).
 6. Navigate to the Ganache transactions tab and locate the transaction.
+
+##### Screenshot
+
+<img width="874" alt="Screen Shot 2022-08-02 at 11 36 04 PM" src="https://user-images.githubusercontent.com/101449950/182518723-9465db37-ab2c-4d3d-a8e5-32d490f80ecc.png">
 
 
 ![image](https://user-images.githubusercontent.com/101449950/182516678-c12241e8-01a5-47bf-86aa-388442fc601f.png)
