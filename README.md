@@ -56,9 +56,18 @@ from crypto_wallet import generate_account,get_balance,send_transaction
 5. Navigate to the Ganache accounts tab and locate your account (index 0).
 6. Navigate to the Ganache transactions tab and locate the transaction.
 
-##### Screenshot
+## Screenshots
+
+### TransactionLane Selected for 0.5 hours
 
 <img width="874" alt="Screen Shot 2022-08-02 at 11 36 04 PM" src="https://user-images.githubusercontent.com/101449950/182518723-9465db37-ab2c-4d3d-a8e5-32d490f80ecc.png">
+
+-- Candidate Name: Lane
+-- Hourly Rate: 0.2
+-- Ethereum Address: 0xaC8eB8B2ed5C4a0fC41a84Ee4950F417f67029F0
+-- Total Wage in Ether: 0.10000000000000005
+-- Validated Transaction Hash:
+b'\\5?\xab\x81\xd1Rq3c\x18\x98\x9f\x85\xcd\x99\x12Jr\xfd0\xdc\xf3\xc3o\xaf9Y\xb0\xe9\x14\x93'
 
 
 ![image](https://user-images.githubusercontent.com/101449950/182516678-c12241e8-01a5-47bf-86aa-388442fc601f.png)
