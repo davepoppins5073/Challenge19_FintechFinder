@@ -40,3 +40,10 @@ w3 = Web3(Web3.HTTPProvider('HTTP://127.0.0.1:7545'))
 
 from crypto_wallet import generate_account,get_balance,send_transaction
 ```
+---
+
+![image](https://user-images.githubusercontent.com/101449950/182516678-c12241e8-01a5-47bf-86aa-388442fc601f.png)
+
+
+
+![image](https://user-images.githubusercontent.com/101449950/182516882-d6436b06-fb3d-4dce-85bd-3d1e152a005f.png)
