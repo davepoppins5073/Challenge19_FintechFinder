@@ -58,20 +58,17 @@ from crypto_wallet import generate_account,get_balance,send_transaction
 
 ## Screenshots
 
-### TransactionLane Selected for 0.5 hours
+#### TransactionLane Selected for 0.5 hours
 
 <img width="874" alt="Screen Shot 2022-08-02 at 11 36 04 PM" src="https://user-images.githubusercontent.com/101449950/182518723-9465db37-ab2c-4d3d-a8e5-32d490f80ecc.png">
 
--- Candidate Name: Lane
--- Hourly Rate: 0.2
--- Ethereum Address: 0xaC8eB8B2ed5C4a0fC41a84Ee4950F417f67029F0
--- Total Wage in Ether: 0.10000000000000005
--- Validated Transaction Hash:
+1. -- Candidate Name: Lane
+2. -- Hourly Rate: 0.2
+3. -- Ethereum Address: 0xaC8eB8B2ed5C4a0fC41a84Ee4950F417f67029F0
+4. -- Total Wage in Ether: 0.10000000000000005
+5. -- Validated Transaction Hash:
 b'\\5?\xab\x81\xd1Rq3c\x18\x98\x9f\x85\xcd\x99\x12Jr\xfd0\xdc\xf3\xc3o\xaf9Y\xb0\xe9\x14\x93'
 
+#### Ganache verification of screenshot
+<img width="1196" alt="Screen Shot 2022-08-02 at 11 48 02 PM" src="https://user-images.githubusercontent.com/101449950/182520000-ad1cf30d-8de1-473c-acb5-4783cf8ad85e.png">
 
-![image](https://user-images.githubusercontent.com/101449950/182516678-c12241e8-01a5-47bf-86aa-388442fc601f.png)
-
-
-
-![image](https://user-images.githubusercontent.com/101449950/182516882-d6436b06-fb3d-4dce-85bd-3d1e152a005f.png)
